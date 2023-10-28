@@ -1,5 +1,5 @@
 # <p align="center">💫 Khem Bikram Rana:</p>
-🔭 I’m currently working on Backend Development<br>👯 I’m looking to collaborate on Software Related Stuffs<br>🤝 I’m looking for help with Bugs in my project <br>🌱 I’m currently learning mern stack<br>💬 Ask me about Core-Front-end development and there frameworks<br>⚡ Fun fact - work less   
+🔭 I’m currently working on Backend Development<br>👯 I’m looking to collaborate on MERN Stack<br>🤝 I’m looking for help with Bugs in my project <br>🌱 I’m currently learning mern stack<br>💬 Ask me about Core-Front-end development and there frameworks<br>⚡ Fun fact - work less   
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=khembikram&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
