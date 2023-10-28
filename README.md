@@ -1,10 +1,6 @@
 # 💫 About Khem Bikram Rana:
 🔭 I’m currently working on Backend Development<br>👯 I’m looking to collaborate on Software Related Stuffs<br>🤝 I’m looking for help with Bugs in my project <br>🌱 I’m currently learning mern stack<br>💬 Ask me about Core-Front-end development and there frameworks<br>⚡ Fun fact - work less   
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Sujan Rana](https://www.facebook.com/profile.php?id=100077418311983)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/_sujan_rana_](https://www.instagram.com/_sujan_rana_/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Khem Bikram Rana](https://www.linkedin.com/in/khem-bikram-rana-74b91424a/)) 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=khembikram&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khembikram&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
@@ -14,3 +10,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=khembikram&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Sujan Rana](https://www.facebook.com/profile.php?id=100077418311983)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/_sujan_rana_](https://www.instagram.com/_sujan_rana_/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Khem Bikram Rana](https://www.linkedin.com/in/khem-bikram-rana-74b91424a/)) 
