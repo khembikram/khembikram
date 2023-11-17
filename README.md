@@ -1,4 +1,4 @@
-# <p align="center"> Khem Bikram Rana ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&color=green)</p> 
+# <p align="center"> Khem Bikram Rana <br> ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&color=green)</p> 
 🔭 I’m currently working on Backend Development<br>👯 I’m looking to collaborate on MERN Stack<br>🤝 I’m looking for help with Bugs in my project <br>🌱 I’m currently learning mern stack<br>💬 Ask me about Core-Front-end development and there frameworks<br>⚡ Fun fact - work less   
 
 # <p align="center">📊 GitHub Stats:</p>
