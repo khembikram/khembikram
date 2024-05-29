@@ -1,7 +1,4 @@
 <h1 align="center">Khem Bikram Rana</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&color=green" alt="Profile Views">
-</p>
 
 🔭 I’m currently working on Backend Development<br>
 👯 I’m looking to collaborate on MERN Stack<br>
