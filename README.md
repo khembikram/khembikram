@@ -20,9 +20,7 @@
 <div>
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/khembikram/khembikram?color=0A9396&logo=github&style=for-the-badge&logoColor=0A9396" height="22px">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/khembikram/khembikram?color=0A9396&logo=github&style=for-the-badge&logoColor=0A9396" height="22px">
-    <a href="https://badges.strrl.dev">
         <img alt="github repos" src="https://badges.strrl.dev/repos/khembikram?color=0A9396&style=for-the-badge&count_private=true&labelColor=005F73">
-    </a>
     <img alt="Last commit" src="https://img.shields.io/github/last-commit/khembikram/khembikram?color=005F73&logo=git&logoColor&style=for-the-badge" height="22px">
     <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/khembikram/khembikram?color=005F73&logo=git&logoColor&style=for-the-badge" height="22px">
 </div>
