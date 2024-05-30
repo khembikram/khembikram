@@ -1,5 +1,5 @@
 <div id="top"></div>
-<!-- <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div> -->
+<!-- <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/khembikram/khembikram/blob/main/assets/header.png"></div> -->
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Khem Bikram Rana;He/Him;Computer+Science+Student;Frontend+Developer;function+findQuestion(42)" alt="Front-end developer, Computer Science Student"></a>
@@ -38,9 +38,6 @@
 </br></br>
 
 <h2>:octocat: My GitHub Activity</h2>
-
-:key: My GPG Public Key: [`6D1CA183558B0FF5`](https://github.com/Carol42.gpg)
-
 <h3>:bar_chart: My GitHub Stats</h3>
 <details>
 <summary>My recent activity</summary>
@@ -53,7 +50,7 @@ Last Updated: Thursday, May 30th, 2024, 9:26:20 AM
 <details>
     <summary>My GitHub stats</summary>
     <div>
-        <a href="https://github.com/Carol42">
+        <a href="https://github.com/khembikram">
             <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/khembikram?style=for-the-badge&labelColor=7E3ACE&color=181717">
         </a>
         <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/khembikram?color=181717&style=for-the-badge&count_private=true&labelColor=7E3ACE"></a>
@@ -67,19 +64,19 @@ Last Updated: Thursday, May 30th, 2024, 9:26:20 AM
     </a>
     </br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
+        <img height=180em src="https://github-readme-stats-khembikram.vercel.app/api/top-langs/?username=khembikram&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height=180em src="https://streak-stats.demolab.com/?user=Carol42&theme=midnight-purple&hide_border=true" alt="streak stats"/>
+        <img height=180em src="https://streak-stats.demolab.com/?user=khembikram&theme=midnight-purple&hide_border=true" alt="streak stats"/>
     </a>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img alt="github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Carol42&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
+        <img alt="github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=khembikram&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
     </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=10">
+        <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=khembikram&theme=darkhub&no-frame=true&column=10">
     </a>
     <!--<a href="https://github.com/HwangTaehyun/github-contributor-stats">
-        <img src="https://github-contributor-stats.vercel.app/api?username=Carol42&theme=dark" alt="contribution stats">
+        <img src="https://github-contributor-stats.vercel.app/api?username=khembikram&theme=dark" alt="contribution stats">
     </a>-->
     </br>
     <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
