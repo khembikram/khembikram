@@ -40,8 +40,6 @@
 
 <h2>:octocat: My GitHub Activity</h2>
 <h3>:bar_chart: My GitHub Stats</h3>
-
-<summary>My GitHub stats</summary>
 <div>
 <a href="https://github.com/khembikram">
 <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/khembikram?style=for-the-badge&labelColor=005F73&color=0A9396">
