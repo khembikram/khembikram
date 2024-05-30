@@ -6,26 +6,6 @@
     </a>
 </div>
 
-<h2>ℹ️ Project info</h2>
-<div>
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/khembikram/khembikram?color=0A9396&logo=github&style=for-the-badge&logoColor=0A9396" height="22px">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/khembikram/khembikram?color=0A9396&logo=github&style=for-the-badge&logoColor=0A9396" height="22px">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/khembikram/khembikram?color=0A9396&logo=github&style=for-the-badge&logoColor=0A9396" height="22px">
-    <img alt="Last commit" src="https://img.shields.io/github/last-commit/khembikram/khembikram?color=005F73&logo=git&logoColor&style=for-the-badge" height="22px">
-    <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/khembikram/khembikram?color=005F73&logo=git&logoColor&style=for-the-badge" height="22px">
-</div>
-
-<h2>Let's Talk</h2>
-<a href="https://github.com/khembikram">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/khembikram?style=for-the-badge&color=0A9396&logo=github&logoColor=0A9396&label=@khembikram" height="22px">
-</a>
-<a href="https://www.linkedin.com/in/khem-bikram-rana/">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/khembikram&color=005F73&style=for-the-badge&logo=linkedin" height="22px">
-</a>
-<a href="mailto:khembikram1@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=khembikram1@gmail.com&color=gray&style=for-the-badge&logo=gmail" height="22px">
-</a>
-<br>
 
 <h2>:bulb: Languages i code in ?</h2>
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
@@ -35,8 +15,15 @@
 <code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
 <code><img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
 <code><img title="PHP" alt="php" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
-
 <br><br>
+<h2>ℹ️ Project info</h2>
+<div>
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/khembikram/khembikram?color=0A9396&logo=github&style=for-the-badge&logoColor=0A9396" height="22px">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/khembikram/khembikram?color=0A9396&logo=github&style=for-the-badge&logoColor=0A9396" height="22px">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/khembikram/khembikram?color=0A9396&logo=github&style=for-the-badge&logoColor=0A9396" height="22px">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/khembikram/khembikram?color=005F73&logo=git&logoColor&style=for-the-badge" height="22px">
+    <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/khembikram/khembikram?color=005F73&logo=git&logoColor&style=for-the-badge" height="22px">
+</div>
 
 <h2>:octocat: My GitHub Activity</h2>
 <h3>:bar_chart: My GitHub Stats</h3>
@@ -68,6 +55,17 @@
         <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=khembikram&theme=darkhub&no-frame=true&column=10">
     </a>
     <br>
+    <h2>Let's Talk</h2>
+<a href="https://github.com/khembikram">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/khembikram?style=for-the-badge&color=0A9396&logo=github&logoColor=0A9396&label=@khembikram" height="22px">
+</a>
+<a href="https://www.linkedin.com/in/khem-bikram-rana/">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/khembikram&color=005F73&style=for-the-badge&logo=linkedin" height="22px">
+</a>
+<a href="mailto:khembikram1@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=khembikram1@gmail.com&color=gray&style=for-the-badge&logo=gmail" height="22px">
+</a>
+<br>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
