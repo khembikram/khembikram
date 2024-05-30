@@ -45,15 +45,12 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=khembikram&theme=highcontrast&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khembikram&theme=highcontrast&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages">
 </a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=khembikram&theme=highcontrast&hide_border=true" alt="streak stats">
-</a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=khembikram&theme=darkhub&no-frame=true&column=10">
 </a>
 <br>
 
-    <h2>Let's Talk</h2>
+<h2>Let's Talk</h2>
 <a href="https://github.com/khembikram">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/khembikram?style=for-the-badge&color=0A9396&logo=github&logoColor=0A9396&label=@khembikram" height="22px">
 </a>
