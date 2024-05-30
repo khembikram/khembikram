@@ -33,13 +33,13 @@
 <a href="https://github.com/khembikram">
 <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/khembikram?style=for-the-badge&labelColor=005F73&color=0A9396">
 </a>
-        <a href="https://badges.strrl.dev">
+
             <img alt="github repos" src="https://badges.strrl.dev/repos/khembikram?color=0A9396&style=for-the-badge&count_private=true&labelColor=005F73">
         </a>
-        <a href="https://badges.strrl.dev">
+
             <img alt="commits today" src="https://badges.strrl.dev/commits/daily/khembikram?color=0A9396&style=for-the-badge&labelColor=005F73">
         </a>
-        <a href="https://badges.strrl.dev">
+
             <img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/khembikram?color=0A9396&style=for-the-badge&labelColor=005F73">
         </a>
     </div>
